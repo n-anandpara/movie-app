@@ -1,0 +1,29 @@
+.menuItem {
+    padding: 12px 36px 12px 52px;
+    line-height: 24px;
+    justify-content: flex-start;
+    width: 100%;
+    border-radius: 0;
+}
+
+.activeButton {
+    border-right: 3px solid #00E0FF;
+    color: #00E0FF;
+}
+
+.icon {
+    vertical-align: middle;
+    display: inline-flex;
+}
+
+.icon svg {
+    font-size: 22px;
+}
+
+.title {
+    padding-left: 14px;
+    font-size: 16px;
+    vertical-align: middle;
+    display: inline-flex;
+    font-weight: 600;
+}

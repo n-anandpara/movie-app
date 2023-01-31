@@ -1,0 +1,27 @@
+.searchField fieldset {
+    border: 0;
+}
+
+.textField input {
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+.searchField {
+    width: 567px;
+    max-width: 567px;
+}
+
+.searchActive {
+    background-color: #1A2536;
+    border-radius: 8px;
+}
+
+.searchIcon {
+    margin-right: 12px;
+    cursor: default;
+}
+
+.closeIcon {
+    cursor: default;
+}

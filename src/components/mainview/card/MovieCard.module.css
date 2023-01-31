@@ -1,0 +1,27 @@
+.card {
+    max-width: 196px;
+    min-width: 196px;
+}
+
+.cardMedia {
+    border-radius: 6px;
+}
+
+.cardActions {
+    padding: 0;
+}
+
+.cardContent {
+    padding: 14px 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .card {
+        max-width: 80px;
+        min-width: 80px;
+    }
+
+    .cardContent {
+        padding: 8px 0;
+    }
+}

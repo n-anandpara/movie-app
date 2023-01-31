@@ -1,0 +1,29 @@
+.userAvatar {
+    height: 91px;
+    width: 91px;
+    border-radius: 50%;
+    margin: 42px auto 12px auto;
+}
+
+.userName {
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .userAvatar {
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        margin: 24px auto 12px auto;
+    }
+    
+    .userName {
+        font-size: 1rem;
+        font-weight: 600;
+        text-align: center;
+        padding: 10px;
+    }
+}
