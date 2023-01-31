@@ -1,11 +1,13 @@
 Steps to run the Project
 
 1. Clone the project using command in you command line:
-    git clone https://github.com/n-anandpara/movie-app.git
+    ```git clone https://github.com/n-anandpara/movie-app.git```
 
-2. Enyter into the directory and install npm packages
+2. Enter into the directory and install npm packages
+    ```
     cd movie-app
     npm i
+    ```
 
 3. Run the development server:
 
